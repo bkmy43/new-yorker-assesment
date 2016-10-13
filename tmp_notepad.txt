@@ -1,3 +1,5 @@
 alias sshny='cd; ssh -i "iv_test_key_pair_1.pem" ubuntu@ec2-54-191-46-157.us-west-2.compute.amazonaws.com'
+sudo apt-get install wget
+wget https://releases.hashicorp.com/vagrant/1.8.6/vagrant_1.8.6_x86_64.deb
 sudo dpkg -i vagrant_1.8.6_x86_64.deb
 
