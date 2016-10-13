@@ -1,9 +1,11 @@
 LINKS:
 
 https://docs.docker.com/compose/
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-14-04
 http://www.natalinobusa.com/2015/11/why-is-smack-stack-all-rage-lately.html
 https://blog.codecentric.de/en/2016/04/smack-stack-hands/
 https://www.yelp.com/dataset_challenge/dataset
 https://www.vagrantup.com/docs/virtualbox/
 https://www.ansible.com/
+https://amsterdam.luminis.eu/2016/07/19/a-beginners-guide-to-the-smack-stack-part-1-introduction/
 
