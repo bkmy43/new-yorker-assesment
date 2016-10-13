@@ -17,7 +17,7 @@ https://www.vagrantup.com/docs/virtualbox/
 https://www.ansible.com
 
 NOTES:
-
+```
 alias sshny='cd; ssh -i "iv_test_key_pair_1.pem" ubuntu@ec2-54-191-46-157.us-west-2.compute.amazonaws.com'
 
 sudo apt-get install wget
@@ -26,3 +26,4 @@ sudo dpkg -i vagrant_1.8.6_x86_64.deb
 
 sudo apt-get install virtualbox
 
+```
