@@ -27,6 +27,8 @@ http://pobed2.github.io/2015/08/28/spark-yelp-dataset-part-1/
 ##NOTES:
 ```
 alias sshny='cd; ssh -i "iv_test_key_pair_1.pem" ubuntu@ec2-54-191-46-157.us-west-2.compute.amazonaws.com'
+
+sshny
 cd new-yorker-assesment
 docker-compose up
 docker docker exec -it yelpsmack_cassandra_1 bash
