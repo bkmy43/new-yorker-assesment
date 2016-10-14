@@ -1,13 +1,14 @@
 # new-yorker-assesment
 
-1. Tutorials and research on technologies is done......DONE
-2. Infrastructure (AWS etc) is set up..................DONE
-3. Implementation is ready........................
-4. Tests are successful
-5. Documentation
-6. Email to "New Yorker" sent.
+##PROGRESS
+1. Tutorials and research on technologies..............DONE
+2. Infrastructure (AWS etc)............................DONE
+3. Implementation................................
+4. Tests...........
+5. Documentation.........................
+6. Email to "New Yorker".................
 
-LINKS:
+##LINKS:
 
 https://docs.docker.com/compose
 http://www.natalinobusa.com/2015/11/why-is-smack-stack-all-rage-lately.html
@@ -16,7 +17,7 @@ https://www.yelp.com/dataset_challenge/dataset
 https://www.vagrantup.com/docs/virtualbox
 https://www.ansible.com
 
-NOTES:
+##NOTES:
 ```
 alias sshny='cd; ssh -i "iv_test_key_pair_1.pem" ubuntu@ec2-54-191-46-157.us-west-2.compute.amazonaws.com'
 
