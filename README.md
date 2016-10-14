@@ -1,5 +1,6 @@
 # new-yorker-assesment
 
+
 ##PROGRESS
 1. Tutorials and research on technologies..............DONE
 2. Infrastructure (AWS etc)............................DONE
