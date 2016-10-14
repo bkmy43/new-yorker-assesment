@@ -2,12 +2,13 @@
 
 
 ##PROGRESS
-1. Tutorials and research on technologies..............DONE
-2. Infrastructure (AWS etc)............................DONE
-3. Implementation................................
-4. Tests...........
-5. Documentation.........................
-6. Email to "New Yorker".................
+1. Tutorials and research on technologies...........................DONE
+2. Infrastructure (AWS etc).........................................DONE
+3. Docker-compose configuration for SMACK Stack.....................DONE
+3. Implementation of JOINS and SELECTS over Yelp Dataset......
+4. Tests..........................
+5. Documentation.............................
+6. Email to "New Yorker".....................
 
 ##LINKS:
 https://docs.docker.com/compose
@@ -20,15 +21,14 @@ https://www.yelp.com/dataset_challenge/dataset
 
 https://hub.docker.com/r/datastrophic/mesos-slave-spark
 
+http://pobed2.github.io/2015/08/28/spark-yelp-dataset-part-1/
+
 
 ##NOTES:
 ```
 alias sshny='cd; ssh -i "iv_test_key_pair_1.pem" ubuntu@ec2-54-191-46-157.us-west-2.compute.amazonaws.com'
-
-sudo apt-get install wget
-wget https://releases.hashicorp.com/vagrant/1.8.6/vagrant_1.8.6_x86_64.deb
-sudo dpkg -i vagrant_1.8.6_x86_64.deb
-
-sudo apt-get install virtualbox
-
+cd new-yorker-assesment
+docker-compose up
+docker docker exec -it yelpsmack_cassandra_1 bash
+cqlsh
 ```
