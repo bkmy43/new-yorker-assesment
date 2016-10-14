@@ -25,11 +25,11 @@ services:
       - "5050:5050"
 
   mesos-slave:
-    image: datastrophic/mesos-slave-spark:mesos-0.28.1-spark-1.6
-    hostname: "mesos-slave"
+    image: datastrophic/mesos-slave-spark:mesos-0.27.1-spark-1.6    
+    hostname: "mesos-slave-1"
     privileged: true
     environment:
-      - MESOS_HOSTNAME=mesos-slave
+      - MESOS_HOSTNAME=mesos-slave-1
       - MESOS_PORT=5151
       - MESOS_MASTER=zk://zookeeper:2181/mesos
       - SPARK_PUBLIC_DNS=mesos-slave
