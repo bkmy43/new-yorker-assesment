@@ -10,8 +10,7 @@
 6. Email to "New Yorker".................
 
 ##LINKS:
-
-https://docs.docker.com/compose
+[https://docs.docker.com/compose](https://docs.docker.com/compose)
 http://www.natalinobusa.com/2015/11/why-is-smack-stack-all-rage-lately.html
 https://blog.codecentric.de/en/2016/04/smack-stack-hands
 https://www.yelp.com/dataset_challenge/dataset
