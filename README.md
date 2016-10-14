@@ -18,9 +18,7 @@
 
 [https://www.yelp.com/dataset_challenge/dataset](https://www.yelp.com/dataset_challenge/dataset)
 
-[https://www.vagrantup.com/docs/virtualbox](https://www.vagrantup.com/docs/virtualbox)
-
-[https://www.ansible.com](https://www.ansible.com)
+[https://hub.docker.com/r/datastrophic/mesos-slave-spark/](https://hub.docker.com/r/datastrophic/mesos-slave-spark/)
 
 ##NOTES:
 ```
