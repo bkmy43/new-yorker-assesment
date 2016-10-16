@@ -1,14 +1,13 @@
 # new-yorker-assesment
 
-
 ##PROGRESS
-1. Tutorials and research on technologies...........................DONE
-2. Infrastructure (AWS etc).........................................DONE
+1. DONE Tutorials and research on technologies......................DONE
+2. DONE Infrastructure (AWS etc)....................................DONE
 3. Docker-compose configuration for SMACK Stack.....................DONE
-3. Implementation of JOINS and SELECTS over Yelp Dataset......
-4. Tests..........................
-5. Documentation.............................
-6. Email to "New Yorker".....................
+3. Implementation of JOINS and SELECTS over Yelp Dataset............DONE
+4. Tests....................................................
+5. Documentation............................................
+6. Email to "New Yorker"...
 
 ##LINKS:
 https://docs.docker.com/compose
@@ -23,6 +22,7 @@ https://hub.docker.com/r/datastrophic/mesos-slave-spark
 
 http://pobed2.github.io/2015/08/28/spark-yelp-dataset-part-1/
 
+http://www.slideshare.net/akirillov/data-processing-platforms-architectures-with-spark-mesos-akka-cassandra-and-kafka
 
 ##NOTES:
 ```
