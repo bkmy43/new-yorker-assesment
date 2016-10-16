@@ -46,20 +46,6 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./executor:/throttle
 
-  marathon:
-    image: datastrophic/marathon:0.15.3
-    hostname: "marathon"
-    environment:
-      - MARATHON_HOSTNAME=marathon
-      - MARATHON_MASTER=zk://zookeeper:2181/mesos
-      - MARATHON_ZK=zk://zookeeper:2181/marathon
-    links:
-      - zookeeper
-      - mesos-master
-      - mesos-slave
-    ports:
-      - "8080:8080"
-
   cassandra:
     image: cassandra:3.3
     hostname: "cassandra"
