@@ -1,13 +1,15 @@
 # new-yorker-assesment
 
 ##PROGRESS
-1. DONE Tutorials and research on technologies......................DONE
-2. DONE Infrastructure (AWS etc)....................................DONE
+```
+1. Tutorials and research on technologies...........................DONE
+2. Infrastructure (AWS etc).........................................DONE
 3. Docker-compose configuration for SMACK Stack.....................DONE
 3. Implementation of JOINS and SELECTS over Yelp Dataset............DONE
 4. Tests....................................................
 5. Documentation............................................
 6. Email to "New Yorker"...
+```
 
 ##LINKS:
 https://docs.docker.com/compose
