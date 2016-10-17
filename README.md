@@ -33,6 +33,6 @@ alias sshny='cd; ssh -i "iv_test_key_pair_1.pem" ubuntu@ec2-54-191-46-157.us-wes
 sshny
 cd new-yorker-assesment
 docker-compose up
-docker docker exec -it yelpsmack_cassandra_1 bash
+docker exec -it yelpsmack_cassandra_1 bash
 cqlsh
 ```
